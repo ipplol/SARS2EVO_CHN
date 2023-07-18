@@ -1,0 +1,7 @@
+C:\Users\lilab\OneDrive\BIG\程序\变异位点\输出Spike序列所有可能的一步突变\bin\Debug\输出Spike序列所有可能的一步突变.exe.config
+C:\Users\lilab\OneDrive\BIG\程序\变异位点\输出Spike序列所有可能的一步突变\bin\Debug\输出Spike序列所有可能的一步突变.exe
+C:\Users\lilab\OneDrive\BIG\程序\变异位点\输出Spike序列所有可能的一步突变\bin\Debug\输出Spike序列所有可能的一步突变.pdb
+C:\Users\lilab\OneDrive\BIG\程序\变异位点\输出Spike序列所有可能的一步突变\obj\Debug\输出Spike序列所有可能的一步突变.csprojAssemblyReference.cache
+C:\Users\lilab\OneDrive\BIG\程序\变异位点\输出Spike序列所有可能的一步突变\obj\Debug\输出Spike序列所有可能的一步突变.csproj.CoreCompileInputs.cache
+C:\Users\lilab\OneDrive\BIG\程序\变异位点\输出Spike序列所有可能的一步突变\obj\Debug\输出Spike序列所有可能的一步突变.exe
+C:\Users\lilab\OneDrive\BIG\程序\变异位点\输出Spike序列所有可能的一步突变\obj\Debug\输出Spike序列所有可能的一步突变.pdb

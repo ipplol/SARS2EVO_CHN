@@ -1,0 +1,13 @@
+Clade	A1	A2	B	C/D1	D2	D3	D4	E1/E2.1	E2.2	E3	F1	F3
+BA.5 convalescents2BA5_IC50	47	29	8	29	24	6	5	50	68	46	101	32
+BF.7 convalescents2BF7_IC50	39	10	4	15	16	5	7	9	33	36	53	16
+BA.1 convalescents reinfection2BA5_IC50	35	8	9	20	18	104	37	6	4	0	30	13
+BA.1 convalescents reinfection2BF7_IC50	35	8	9	20	18	104	37	6	4	0	30	13
+BA.2 convalescents reinfection2BA5_IC50	27	10	5	7	23	23	16	28	8	2	37	46
+BA.2 convalescents reinfection2BF7_IC50	27	10	5	7	23	23	16	28	8	2	37	46
+BA.5 convalescents_Cross_D614G_IC502BA5_IC50	35	1	4	14	12	1	0	44	12	3	22	1
+BF.7 convalescents_Cross_D614G_IC502BF7_IC50	31	0	0	0	12	2	2	5	6	1	9	0
+BA.5 convalescents_Cross_BA1_IC502BA5_IC50	21	1	4	7	3	2	0	35	18	3	5	3
+BF.7 convalescents_Cross_BA1_IC502BF7_IC50	30	1	2	4	7	4	3	5	7	3	2	5
+BA.5 convalescents_Cross_BA2_IC502BA5_IC50	21	8	4	10	17	5	0	37	16	2	3	13
+BF.7 convalescents_Cross_BA2_IC502BF7_IC50	30	2	2	5	16	5	5	6	5	2	1	11

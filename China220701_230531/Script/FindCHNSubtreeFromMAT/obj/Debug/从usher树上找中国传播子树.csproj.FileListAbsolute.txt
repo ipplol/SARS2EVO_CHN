@@ -1,0 +1,14 @@
+C:\Users\lilab\OneDrive\BIG\程序\变异位点\中国23年序列突变情况\从usher树上找中国传播子树\bin\Debug\从usher树上找中国传播子树.exe.config
+C:\Users\lilab\OneDrive\BIG\程序\变异位点\中国23年序列突变情况\从usher树上找中国传播子树\bin\Debug\从usher树上找中国传播子树.exe
+C:\Users\lilab\OneDrive\BIG\程序\变异位点\中国23年序列突变情况\从usher树上找中国传播子树\bin\Debug\从usher树上找中国传播子树.pdb
+C:\Users\lilab\OneDrive\BIG\程序\变异位点\中国23年序列突变情况\从usher树上找中国传播子树\obj\Debug\从usher树上找中国传播子树.csprojAssemblyReference.cache
+C:\Users\lilab\OneDrive\BIG\程序\变异位点\中国23年序列突变情况\从usher树上找中国传播子树\obj\Debug\从usher树上找中国传播子树.csproj.CoreCompileInputs.cache
+C:\Users\lilab\OneDrive\BIG\程序\变异位点\中国23年序列突变情况\从usher树上找中国传播子树\obj\Debug\从usher树上找中国传播子树.exe
+C:\Users\lilab\OneDrive\BIG\程序\变异位点\中国23年序列突变情况\从usher树上找中国传播子树\obj\Debug\从usher树上找中国传播子树.pdb
+M:\China220701_230531\Script\FindCHNSubtreeFromMAT\bin\Debug\从usher树上找中国传播子树.exe.config
+M:\China220701_230531\Script\FindCHNSubtreeFromMAT\bin\Debug\从usher树上找中国传播子树.exe
+M:\China220701_230531\Script\FindCHNSubtreeFromMAT\bin\Debug\从usher树上找中国传播子树.pdb
+M:\China220701_230531\Script\FindCHNSubtreeFromMAT\obj\Debug\从usher树上找中国传播子树.csprojAssemblyReference.cache
+M:\China220701_230531\Script\FindCHNSubtreeFromMAT\obj\Debug\从usher树上找中国传播子树.csproj.CoreCompileInputs.cache
+M:\China220701_230531\Script\FindCHNSubtreeFromMAT\obj\Debug\从usher树上找中国传播子树.exe
+M:\China220701_230531\Script\FindCHNSubtreeFromMAT\obj\Debug\从usher树上找中国传播子树.pdb

@@ -1,0 +1,132 @@
+GISAID	Zhejiang Province Center of Disease Control and Prevention	72	
+GISAID	Beijing Center for Disease Control and Prevention	1653	
+GISAID	Sichuan Center for Disease Control and Prevention	549	
+GISAID	Huainan CDC	69	
+GISAID	Ganzhou Center for Disease Control and Prevention	75	
+GISAID	Changsha Center for Disease Control and Prevention	63	
+GISAID	Jiujiang Center for Disease Control and Prevention	45	
+GISAID	Heilongjiang Provincial Center for Disease Control and Prevention, Department for Viral Disease Control and Prevention	117	
+GISAID	Nanchang City Center for Disease Control and Prevention	56	
+GISAID	Tianjin Centers for Disease Control and Prevention	795	
+GISAID	Shandong Provincial Center for Disease Control and Prevention	1130	
+GISAID	Shanghai Institute of Hematology, National Research Center for Translational Medicine, State Key Laboratory of Medical Genomics, Ruijin Hospital Affiliated to Shanghai Jiao Tong University (SJTU) School of Medicine	355	
+GISAID	Fujian Provincial Center for Disease Control and Prevention	810	
+GISAID	Beijing Changping Laboratory	238	
+GISAID	Jiangxi Province Center for Disease Control and Prevention	45	
+GISAID	Hainan Provincial Center for Disease Control and Prevention	462	
+GISAID	Chongqing Wanzhou Center for Disease Control and Prevention	1	
+GISAID	Hubei Center for Diaease Control and Prevention	1091	
+GISAID	Department of microbiology laboratory, Anhui Center for Disease Control and Prevention	22	
+GISAID	The University of Hong Kong Microbiology	1	
+GISAID	Gansu Provincial Centre for Disease Control and Prevention	401	
+GISAID	State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, First Affiliated Hospital, Zhejiang University School of Medicine	19	
+GISAID	R&D Department, Weirui Biotechnology Limited Liability Company	1	
+GISAID	ZhongShan Center for Disease Control and Prevention	12	
+GISAID	Zhuhai CDC	21	
+GISAID	Yunnan Center for Disease Control and Prevention Department of Acute Infectious Diseases	60	
+GISAID		139	
+GISAID	Guangdong Provincial Center for Disease Control and Prevention	1223	
+GISAID	Henan Provincial Center for Disease Control and Prevention	48	
+GISAID	Xinxiang CDC	142	
+GISAID	HuangShan CDC	40	
+GISAID	China Center for Disease Control and Prevention, National Institute for Viral Disease Control and Prevention	2088	
+GISAID	Kaifeng Center For Disease Control and Prevention	16	
+GISAID	Maanshan Center for Disease Control and Prevention, Microbiology Laboratory	132	
+GISAID	Anhui Center for Disease Control and Prevention, Department of Microbiology Laboratory	25	
+GISAID	Wuhu Center for Disease Control and Prevention	73	
+GISAID	No.158 Dongsi Street, Xishan District, Kunming City, Yunnan Province, China	60	
+GISAID	Tongling City Center for Disease Control and Prevention	13	
+GISAID	Jiangsu Provincial Center for Disease Control and Prevention	530	
+GISAID	Lu'an CDC	60	
+GISAID	Chongqing Municipal Center for Disease Control and Prevention	276	
+GISAID	Xinjiang Corps Center for Disease Control and Prevention	134	
+GISAID	The microbiology lab at the Centers for Disease Control and Prevention in Zhengzhou	71	
+GISAID	Shaanxi Provincial Center for Disease Control and Prevention	106	
+GISAID	Xinyang CDC	45	
+GISAID	Qinghai Center for Disease Control and Prevention	304	
+GISAID	Jilin Center for Disease Control and Prevention	121	
+GISAID	Zhejiang University School of Medicine, First Affiliated Hospital, National Clinical Research Center for Infectious Diseases, State Key Laboratory for Diagnosis and Treatment of Infectious Diseases	65	
+GISAID	Hefei Center for Disease Control and Prevention	159	
+GISAID	Luoyang Center for Disease Control and Prevention, Pathogenic Microorganism Laboratory	4	
+GISAID	Suzhou CDC	18	
+GISAID	Shanxi Provincial Center for Disease Control and Prevention	244	
+GISAID	Centers for Disease Control and Prevention in Zhengzhou, Microbiology Lab	10	
+GISAID	Pathogenic Microorganism Laboratory, Luoyang CDC	32	
+GISAID	Department for Viral Disease Control and Prevention, Heilongjiang Provincial Center for Disease Control and Prevention	326	
+GISAID	Hebei Provincial Center for Disease Control and Prevention	452	
+GISAID	Guangxi Zhuang Autonomous Region Center for Disease Control and Prevention	302	
+GISAID	Bozhou Municipal Center for Disease Control & Prevention	25	
+GISAID	Liaoning Center for Disease Control and Prevention	65	
+GISAID	University of Science and Technology of China	2	
+GISAID	Children's Hospital of Fudan University	64	
+GISAID	Chinese National Influenza Center, National Institute for Viral Disease Control and Prevention, Chinese Center for Disease Control and Prevention	1	
+GISAID	Beijing Chao-Yang Hospital	390	
+GISAID	National Institute for Viral Disease Control and Prevention	25	
+GISAID	Department of Acute Infectious Diseases Control and Prevention, Yunnan Center for Disease Control and Prevention	58	
+GISAID	Jiangsu International Travel Health Care Center, Center Laboratory of Health Quarantine	14	
+GISAID	Key Laboratory of Human Diseases Comparative Medicine, Institute of Laboratory Animal Science	4	
+GISAID	Center Laboratory of Health Quarantine, Nanjing Customs	5	
+GISAID	Chongqing Yubei District Center for Disease Control and Prevention	30	
+GISAID	Anqing Center for Disease Control and Prevention	34	
+GISAID	Shenzhen Key Laboratory of Pathogen and Immunity	4	
+GISAID	Fuyang Center for Disease Control and Prevention	148	
+GISAID	Xuancheng City Center for Disease Control and Prevention	83	
+GISAID	Nanyang Center for Disease Control and Prevention	79	
+GISAID	Zhoukou CDC	14	
+GISAID	Huaibei Center for Disease Control and Prevention	21	
+GISAID	Pingdingshan CDC	10	
+GISAID	Center for Disease Control and Prevention of Bengbu	22	
+GISAID	Microbiology Laboratory, Zhengzhou Center for Disease Control and Prevention	8	
+GISAID	Institute of Laboratory Animal Science - Key Laboratory of Human Diseases Comparative Medicine	1	
+GISAID	Jiangsu International Travel Healthcare Center- Nanjing Customs Port Outpatient Department	1	
+GISAID	Shangqiu Center for Disease Control and Prevention	31	
+GISAID	Institute of Health Inspection and Testing, Hubei Provincial Center for Disease Control and Prevention	272	
+GISAID	Microbe Lab, Shanghai Municipal Center for Disease Control & Prevention	236	
+GISAID	Institute for the Prevention and Control of Infectious Diseases, Fujian Provincial Center for Disease Control and Prevention	53	
+GISAID	The Department for Prevention and Control of Acute Infectious Diseases, Yunnan Center for Disease Control and Prevention	12	
+GISAID	Microbiology laboratory, Sichuan Center for Disease Control and Prevention	255	
+GISAID	Institute of Pathogenic Microbiology, Guangdong Provincial Center for Disease Control and Prevention	46	
+GISAID	Department of Health and Disease Testing, Jinzhong City Center for Disease Control and Prevention	7	
+GISAID	Microbiological testing center, Qinghai Center for Disease Prevention and Control	37	
+GISAID	Inspection and testing department, Center for Disease Control and Preventron of Baiyin City	8	
+GISAID	Shanghai Municipal Center for Disease Control & Prevention	936	
+GISAID	Clinical Laboratory, Qinghai xiningCDC	12	
+GISAID	Health Inspection Institute, Pingliang City Center for Disease Control and Prevention	18	
+GISAID	The department for prevention and control of acute infectious diseases	31	
+GISAID	Institute for the Prevention and Control of Acute Infectious Diseases	81	
+GISAID	Institute for Viral Disease Control and Prevention, Department for Viral Disease Control and Prevention, Heilongjiang Provincial Center for Disease Control and Prevention	224	
+GISAID	Clinical laboratory, Bozhou Municipal Center for Disease Control & Prevention	9	
+GISAID	Institute for Communicable and Infectious Diseases Prevention and Control, Liaoning Center for Disease Control and Prevention	24	
+GISAID	Institute of Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical College	1	
+GISAID	Puyang Center for Disease Control and Prevention	9	
+GISAID	Jiaozuo Center for Disease Control and Prevention	42	
+GISAID	Anyang CDC	33	
+GISAID	Hebi CDC	5	
+GISAID	Zhumadian Center for Disease Control and Prevention	27	
+GISAID	Shuozhou Center for Disease Control and Prevention	7	
+GISAID	Haidian District Center for Disease Control and Prevention Microbiological Laboratory	5	
+GISAID	Disease laboratory, Shuozhou Center for Disease Control and Prevention	5	
+NGDC	Sichuan Center for Disease Control and Prevention	435	
+NGDC	Qinghai Center for Disease Control and Prevention	52	
+NGDC	Hubei Center for Diaease Control and Prevention	304	
+NGDC	Bozhou Municipal Center for Disease Control & Prevention	29	
+NGDC	Fujian Provincial Center for Disease Control and Prevention	282	
+NGDC	Lu'an CDC	5	
+NGDC	Shuozhou Center for Disease Control and Prevention	11	
+NGDC	Sanmenxia Center for Disease prevention and control	3	
+NGDC	Shanghai Municipal Center for Disease Control & Prevention	672	
+NGDC	The First Affiliated Hospital	11	
+NGDC	Xinyang CDC	7	
+NGDC	Tianshui Center for Disease Control and Prevention	26	
+NGDC	Hebi CDC	13	
+NGDC	Jiaozuo Center for Disease Control and Prevention	7	
+NGDC	Nanyang Center for Disease Control and Prevention	37	
+NGDC	HuangShan CDC	3	
+NGDC	Puyang Center for Disease Control and Prevention	9	
+NGDC	Jiangsu Provincial Center for Disease Control and Prevention	72	
+NGDC	Jinzhong City Center for Disease Control and Prevention	4	
+NGDC	Center for Disease Control and Preventron of Baiyin City	1	
+NGDC	Xinxiang CDC	6	
+NGDC	Xinjiang Uygur Autonomous Region Center for Disease Prevention and Control	5	
+NGDC	Hebei Provincial Center for Disease Control and Prevention	230	
+NGDC	Guangdong Provincial Center for Disease Control and Prevention	167	

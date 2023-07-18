@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "统计某些Lineage的时间分布", "统计某些Lineage的时间分布\统计某些Lineage的时间分布.csproj", "{BD31BD94-8EE0-4820-BA68-A1E7985CC4D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD31BD94-8EE0-4820-BA68-A1E7985CC4D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD31BD94-8EE0-4820-BA68-A1E7985CC4D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD31BD94-8EE0-4820-BA68-A1E7985CC4D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD31BD94-8EE0-4820-BA68-A1E7985CC4D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E6B5AA6-D1B8-4A46-BA68-69A868497AB0}
+	EndGlobalSection
+EndGlobal
