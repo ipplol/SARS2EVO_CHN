@@ -3,7 +3,8 @@ This repository provides data and scripts used for the research [研究]()
 The workflow was designed to run on a [WSL-enabled](https://learn.microsoft.com/en-us/windows/wsl/) Windows platform.
 As most scripts were written in C# and one needs to adjust the file path manually, the [Microsoft VisualStudio](https://visualstudio.microsoft.com/zh-hans/) or other compatible IDE is needed.
 
-These two files in the _./China220701_230531/Data_ need to be unzipped before processing:
+These two files in the [google drive](https://drive.google.com/drive/folders/1W7KXdd2Q1crVCrd1eTMjZw41G0HiVvt_)
+need to be unzipped and saved in _./China220701_230531/Data_ before processing:
 _global_assignments.pb.gz_
 _public-latestCHNadded.metadata.tsv.gz_
 This can be done in a WSL environment with _"tar -zxvf [filename]"_
